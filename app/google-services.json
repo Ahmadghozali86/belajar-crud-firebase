@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072886472138",
+    "project_id": "jariahxp-firebase-c37e1",
+    "storage_bucket": "jariahxp-firebase-c37e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072886472138:android:88edae6bfe29af99e00333",
+        "android_client_info": {
+          "package_name": "com.example.jariahxp_firebase_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIvhrrJOvsSQzq5MdPpncVV4ZwuFPfXEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
